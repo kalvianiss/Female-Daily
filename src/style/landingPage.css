@@ -1,0 +1,172 @@
+.nav-tengah{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.banner{
+    height:20%;
+    background-color: #dfe5e8;
+    border-color: black;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width:30%;
+}
+
+.card-editor{
+    border:none;
+    width:30%;
+    margin-right:500px; 
+}
+
+.padding-card-editor{
+    margin-left:3%; 
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-left-editor{
+    text-align: left;
+    margin-left: 3%;
+}
+.text-right{
+    text-align: right;
+}
+
+.box {
+    width: 1300px;
+    height: 356px;
+    background-color: #ffcfe3;
+    /* border: 1px solid green; */
+    margin: 80px;
+  }
+
+  .img-wm{
+    float:left;
+    display:block;
+    margin:5px;
+    width: 300px;
+    height: 350px;
+  }
+
+.bg-card{
+    background-color: #ffcfe3;
+}
+
+.mg-right {
+    margin-left: 50%;
+}
+
+.box-article_review {
+    width: 1500px;
+    height: 356px;
+    background-color: white;
+    border: 1px solid green;
+    margin: 80px;
+  }
+
+  .img-lr{
+    float:left;
+    display:block;
+    margin:5px;
+    width: 80px;
+    height: 100px;
+  }
+
+  .text-review{
+    Color: #ff0099;
+  }
+
+  .img-user-lr{
+    width: 60px;
+    height: 50px;
+    margin-left: 38%;
+    border-radius: 50%;
+  }
+
+  .img-vid{
+    display:block;
+    width: 600px;
+    height: 280px;
+  }
+
+  .img-vid-two{
+    display:block;
+    margin-left: 38%;
+    width: 400px;
+    height: 200px;
+  }
+ 
+  .img-vid-three{
+    margin-left:180px;
+    display:block;
+    width: 400px;
+    height: 200px;
+  }
+
+  .img-Nivea{
+    float:left;
+    display:block;
+    width: 100px; 
+    height:100px;
+  }
+
+  .img-Ordinary{
+    display:block;
+    width: 100px; 
+    height:100px;
+  }
+
+  .img-Bodyshop{
+    display:block;
+    width: 100px; 
+    height:100px;
+  }
+
+  .img-SKII{
+    display:block;
+    width: 80px; 
+    height:100px;
+  }
+
+  .img-maybelline{
+    display:block;
+    width: 100px; 
+    height:80px;
+  }
+
+  .img-innisfree{
+    display:block;
+    width: 100px; 
+    height:100px;
+  }
+
+  .mg-top-brands{
+    padding: 5px 5px 5px 5px;
+  }
+
+  .img-googleplay{
+    display:block;
+    width: 150px; 
+    height:50px;
+  }
+
+  .padding-la{
+    margin-left:6%; 
+}
+
+.padding-lr{
+  margin-left:35%; 
+}
+
+.top-frame{
+  width: 970px; 
+  height:5px;
+}
